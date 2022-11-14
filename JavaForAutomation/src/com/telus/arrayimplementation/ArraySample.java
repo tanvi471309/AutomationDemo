@@ -8,7 +8,7 @@ package com.telus.arrayimplementation;
 public class ArraySample {
 
 	public static void main(String[] args) {
-		
+		//14 Nov
 		// Integer array declaration and initialization
 		int arrMarks[]= {30,35,48,39,49,33};
 		
